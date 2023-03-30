@@ -10,5 +10,5 @@ Mobile view:
 
 ![image](https://user-images.githubusercontent.com/107784718/228808254-4b4095d5-3e62-4597-985d-fc0d6cf9fe41.png)
 
-![Uploading image.png…]()
+
 
