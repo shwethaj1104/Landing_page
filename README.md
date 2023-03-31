@@ -3,6 +3,7 @@
 Technology used : Angular 15, Tailwind CSS
 
 Landing page:
+
 ![image](https://user-images.githubusercontent.com/107784718/228807770-bb0c000a-d695-4208-b7b5-7e6bb9b94f82.png)
 
 ![image](https://user-images.githubusercontent.com/107784718/228808871-53b86feb-b2cd-46be-8481-2699a64d25e7.png)
