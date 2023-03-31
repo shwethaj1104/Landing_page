@@ -2,7 +2,7 @@
 
 Technology used : Angular 15, Tailwind CSS
 
-Landing page: User will able able to see the follwoing landing page once he access the application.
+Landing page: User will be able to see the follwoing page once he access the application.
 
 ![image](https://user-images.githubusercontent.com/107784718/228807770-bb0c000a-d695-4208-b7b5-7e6bb9b94f82.png)
 
