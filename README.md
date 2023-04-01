@@ -11,7 +11,7 @@ Landing page: User will be able to see the following page once he/she access the
 
 
 
-# Mobile view:
+# Mobile view :
 
 In the mobile view user will be able to see the following page.
 
