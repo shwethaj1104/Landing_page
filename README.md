@@ -13,7 +13,7 @@ Landing page: User will be able to see the following page once he/she access the
 
 # Mobile view :
 
-In mobile view user will be able to see the following page.
+In mobile view, user will be able to see the following page.
 
 ![image](https://user-images.githubusercontent.com/107784718/228808062-cb85fd83-5339-47b6-84a9-93066e166fb5.png)
 
