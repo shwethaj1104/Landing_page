@@ -8,9 +8,6 @@ Landing page: User will be able to see the following page once he/she access the
 
 ![image](https://user-images.githubusercontent.com/107784718/228808871-53b86feb-b2cd-46be-8481-2699a64d25e7.png)
 
-
-
-
 # Mobile view :
 
 In mobile view, user will be able to see the following page.
